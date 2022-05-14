@@ -2,4 +2,4 @@ project: ManifestAmbiguity
 target: manifestAmbiguity
 
 cmds:
-  - cmd: /manifestAmbiguity @@
+  - cmd: /manifestAmbiguity -m @@
