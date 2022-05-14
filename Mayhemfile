@@ -1,0 +1,5 @@
+project: ManifestAmbiguity
+target: manifestAmbiguity
+
+cmds:
+  - cmd: /manifestAmbiguity @@
